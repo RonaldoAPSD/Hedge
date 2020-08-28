@@ -10,13 +10,13 @@ just like any other language in the future.
 There are a lot of bugs currently that i am working on.
 
 # Currently Works
-Variables
-For loops
-While loops
+Variables,
+For loops,
+While loops,
 Braches (If, elif, else)
 
 # Currently Bugged
-Functions
+Functions,
 Lists
 
 There are more features coming in the future but im mainly focused on getting functions and list/arrays
